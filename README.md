@@ -4,7 +4,7 @@ Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con 
 
 - **Aprendiz:** Shoreb Pava
 - **Curso y mecánica:** Lectura y Racha diaria
-- **Aplicación publicada:** (complete con la URL de Render)
+- **Aplicación publicada:** https://plataforma-ludica-dfuw.onrender.com
 
 ## Ejecutar en su equipo
 

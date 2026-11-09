@@ -2,8 +2,8 @@
 
 Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con FastAPI.
 
-- **Aprendiz:** Nombre Apellido
-- **Curso y mecánica:** (complete)
+- **Aprendiz:** Shoreb Pava
+- **Curso y mecánica:** Lectura y Racha diaria
 - **Aplicación publicada:** (complete con la URL de Render)
 
 ## Ejecutar en su equipo

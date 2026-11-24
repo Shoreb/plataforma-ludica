@@ -13,6 +13,9 @@ Me comprometo a cumplir las siguientes reglas durante el desarrollo de este proy
 | --- | --- |
 | (complete) | (complete) |
 
-**Nombre:** (complete)
+## Aceptación
 
-**Fecha:** (complete)
+Leí esta política y la acepto. Respondo por todo lo que entrego, lo haya escrito o no
+la IA.
+- Nombre: Shoreb Pava
+- Fecha: 2026/11/23
